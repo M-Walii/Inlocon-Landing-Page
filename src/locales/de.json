@@ -1,0 +1,338 @@
+{
+  "hero": {
+    "title": "Öffentliche Ausschreibungen & Aufträge",
+    "headline1": "Finden Sie die richtigen Ausschreibungen",
+    "headline2": "Schneller als je zuvor",
+    "description": "Wir recherchieren täglich die neuesten Ausschreibungen nach Ihren Interessen, kategorisiert nach Fachgebiet, Region und Objektart aus Hunderten verschiedener Quellen.",
+    "searchPlaceholder": "Suche nach Ausschreibungen, Stichworten oder Kategorien",
+    "searchButton": "Suchen",
+    "cta": "Kostenlos testen",
+    "demo": "Demo ansehen",
+    "trusted": "Vertrauen von über 10.000 Unternehmen weltweit",
+    "learnMore": "Mehr erfahren",
+    "backgroundAlt": "Modernes architektonisches Gebäude",
+    "logos": {
+      "db": "Logo der Deutschen Bahn",
+      "knauf": "Knauf Logo",
+      "schindler": "Schindler Logo",
+      "siemens": "Siemens Logo",
+      "strabag": "Strabag Logo"
+    }
+  },
+  "header": {
+    "logoAlt": "Inlocon AG Logo",
+    "languageSwitcher": {
+      "ariaLabel": "Sprache wechseln"
+    },
+    "menu": {
+      "home": "Startseite",
+      "howItWorks": "Wie es funktioniert",
+      "benefits": "Vorteile",
+      "dataSources": "Datenquellen",
+      "features": "Eigenschaften"
+    },
+    "cta": "Kostenlos testen"
+  },
+  "footer": {
+    "company": "Inlocon AG",
+    "address": "Erich-Zeigner-Allee 36\n04229 Leipzig\nTel.: 0341/ 253 479 111",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "xing": "Xing"
+    },
+    "jobs": {
+      "title": "Stellenangebote & Jobs",
+      "support": "Support-Manager (m/w/d)",
+      "sales": "Sales Representative (m/w/d)"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "imprint": "Impressum",
+      "privacy": "Datenschutz",
+      "terms": "AGB"
+    },
+    "copyright": "Inlocon. Alle Rechte vorbehalten.",
+    "brand": "INLOCON",
+    "cta": "Schließen Sie sich Tausenden von Unternehmen an, die Inlocon bereits nutzen, um mehr Ausschreibungen zu finden und zu gewinnen",
+    "quickLinks": {
+      "title": "Schnell-Links",
+      "links": {
+  "howItWorks": "Wie es funktioniert",
+  "benefits": "Vorteile",
+  "dataSources": "Datenquellen",
+        "features": "Funktionen",
+        "pricing": "Preise"
+      }
+    },
+    "support": {
+      "title": "Support",
+      "links": {
+        "helpCenter": "Hilfezentrum",
+        "documentation": "Dokumentation",
+        "apiReference": "API-Referenz",
+        "contactSupport": "Support kontaktieren",
+        "statusPage": "Statusseite"
+      }
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "email": "kontakt@inlocon.com",
+      "phone": "0341/ 253 479 111",
+      "address": "Inlocon AG Erich-Zeigner-Allee 36 04229 Leipzig"
+    },
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Richtlinie"
+  },
+  "extraFeatures": {
+    "title": "Zusätzliche Funktionen, die den Unterschied machen",
+    "subtitle": "Über die reine Ausschreibungssuche hinaus bieten wir umfassende Werkzeuge für Networking, Einblicke und Geschäftswachstum",
+    "features": {
+      "1": {
+        "name": "Partner-Networking",
+        "description": "Verbinden Sie sich mit komplementären Unternehmen für Joint Ventures und Partnerschaften",
+        "link": "Strategische Allianzen bilden"
+      },
+      "2": {
+        "name": "Markteinblicke",
+        "description": "Erweiterte Analysen und Marktinformationen für fundierte Entscheidungen",
+        "link": "Datengetriebene Strategien"
+      },
+      "3": {
+        "name": "Kollaborationstools",
+        "description": "Team-Kollaborationsfunktionen für die Angebotsentwicklung und das Angebotsmanagement",
+        "link": "Optimierte Teamarbeit"
+      },
+      "4": {
+        "name": "Terminmanagement",
+        "description": "Automatisiertes Termin-Tracking und Erinnerungssystem für all Ihre Ausschreibungen",
+        "link": "Keinen Termin mehr verpassen"
+      },
+      "5": {
+        "name": "Erfolgs-Tracking",
+        "description": "Überwachen Sie Ihre Angebots-Erfolgsquoten und identifizieren Sie Verbesserungsmöglichkeiten",
+        "link": "Leistung optimieren"
+      },
+      "6": {
+        "name": "Benutzerdefinierte Workflows",
+        "description": "Passen Sie Ihren Ausschreibungsmanagement-Prozess an Ihre Geschäftsanforderungen an",
+        "link": "Maßgeschneiderte Lösungen"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Referenzen",
+    "description": "Lorem Ipsum ist ein einfacher Blindtext aus der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der Standard-Blindtext der Branche.",
+    "testimonials": {
+      "1": {
+        "name": "Esther Howard",
+        "designation": "Bezeichnung",
+        "text": "Lorem Ipsum ist ein einfacher Blindtext aus der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der Standard-Blindtext der Branche."
+      },
+      "2": {
+        "name": "John Doe",
+        "designation": "Bezeichnung",
+        "text": "Lorem Ipsum ist ein einfacher Blindtext aus der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der Standard-Blindtext der Branche."
+      },
+      "3": {
+        "name": "Jane Smith",
+        "designation": "Bezeichnung",
+        "text": "Lorem Ipsum ist ein einfacher Blindtext aus der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der Standard-Blindtext der Branche."
+      }
+    }
+  },
+  "whychooseInlocon": {
+    "title": "Warum Inlocon wählen?",
+    "subtitle": "Transformieren Sie Ihre Ausschreibungssuche mit unserer umfassenden Plattform für Geschäftserfolg",
+    "features": {
+      "1": {
+        "title": "Zeit sparen",
+        "description": "Reduzieren Sie die Suchzeit nach Ausschreibungen um 80% durch intelligente Automatisierung und Filterung."
+      },
+      "2": {
+        "title": "Höhere Erfolgsquote",
+        "description": "Verbessern Sie Ihre Gewinnchancen durch bessere Übereinstimmung und detaillierte Ausschreibungsanalysen."
+      },
+      "3": {
+        "title": "Unternehmenswachstum",
+        "description": "Erschließen Sie mehr Chancen und skalieren Sie Ihr Geschäft durch datenbasierte Entscheidungen."
+      },
+      "4": {
+        "title": "Sicher & zuverlässig",
+        "description": "Sicherheit auf Unternehmensniveau mit 99,9% Verfügbarkeit und Datenschutzkonformität."
+      },
+      "5": {
+        "title": "Netzwerkaufbau",
+        "description": "Vernetzen Sie sich mit potenziellen Partnern und bauen Sie strategische Geschäftsbeziehungen auf."
+      },
+      "6": {
+        "title": "Echtzeit-Updates",
+        "description": "Bleiben Sie mit sofortigen Benachrichtigungen und Echtzeit-Ausschreibungsupdates immer einen Schritt voraus."
+      }
+    }
+  },
+  "ourPortal": {
+    "title": "Unsere Portale",
+    "subtitle": "Durch unsere 24-jährige Erfahrung haben wir zehn spezialisierte Portale aufgebaut, in denen Sie genau das finden, was für Sie relevant ist – ob Sie nach öffentlichen Ausschreibungen und Leistungsverzeichnissen suchen, Aufträge, Subunternehmer oder Geschäftskontakte finden möchten. Unsere Portale im Überblick:",
+    "portals": {
+      "1": {
+        "title": "Behördenportale",
+        "description": "Zugang zu über 50 staatlichen Ausschreibungsdatenbanken weltweit",
+        "count": "2,5 M+"
+      },
+      "2": {
+        "title": "Unternehmens-Ausschreibungen",
+        "description": "Chancen im privaten Sektor von Großunternehmen",
+        "count": "1,8 M+"
+      },
+      "3": {
+        "title": "Branchendatenbanken",
+        "description": "Spezialisierte Datenbanken für Bau, IT, Gesundheit und mehr",
+        "count": "3,2 M+"
+      }
+    },
+    "stats": {
+      "1": { "value": "9,2 M+", "label": "Ausschreibungen gesamt" },
+      "2": { "value": "150+", "label": "Länder" },
+      "3": { "value": "24/7", "label": "Daten-Updates" }
+    },
+    "cta": "Kostenlose Beratung"
+  },
+  "groups": {
+    "title": "Zu welcher Gruppe gehören Sie?",
+    "subtitle": "Die Inlocon-Datenbank und ihre Analysemöglichkeiten sind ideal für alle, die öffentliche Ausschreibungen suchen. Für die folgenden Gruppen bieten wir jedoch maßgeschneiderte, einzigartige und fortschrittliche Lösungen, von denen sie besonders profitieren!",
+    "group": {
+      "1": "Architekten & Planer",
+      "2": "Dienstleister & Ausführende",
+      "3": "Hersteller & Händler",
+      "4": "Bauherren & Auftraggeber"
+    },
+    "cta": "Kostenlos testen",
+    "note": "Keine Kreditkarte erforderlich • Individuelle Analyse erhalten"
+  },
+  "jobOpportunities": {
+    "title": "Aktuelle Stellenangebote individuell für Sie aufbereitet",
+    "subtitle": "Erhalten Sie personalisierte Ausschreibungsangebote aus Hunderten von Quellen, präzise gefiltert für Ihre Geschäftsanforderungen",
+    "features": {
+      "1": {
+        "title": "Öffentliche & private Ausschreibungen",
+        "description": "Aus über 463 Originalquellen an einem zentralen Ort"
+      },
+      "2": {
+        "title": "Präzise gefiltert",
+        "description": "Abgestimmt auf Ihre spezifischen Interessen und Anforderungen"
+      },
+      "3": {
+        "title": "Sofort-Downloads",
+        "description": "Erhalten Sie Ihre relevanten Leistungsverzeichnisse sofort"
+      },
+      "4": {
+        "title": "Vergebene Aufträge",
+        "description": "Tägliche Recherche aus allen Branchen direkt zu Ihnen"
+      },
+      "5": {
+        "title": "Business-Netzwerk",
+        "description": "Finden Sie Geschäftskontakte und Subunternehmer einfach"
+      }
+    },
+    "video": {
+      "alt": "So funktioniert es ansehen",
+      "cta": "So funktioniert es ansehen",
+      "subtitle": "Inlocon in Aktion sehen"
+    }
+  },
+  "blog": {
+    "title": "Unser Blog",
+    "subtitle": "Wir bieten eine breite Palette an Werbelösungen, um die Sichtbarkeit und Wirkung Ihrer Marke zu steigern.",
+    "posts": {
+      "1": { "title": "Lärmemissionen von Wärmepumpen: Baugenehmigungen müssen technische Spezifikationen geprüft haben." },
+      "2": { "title": "Das Berufungsgericht muss Einwände bei Eigenbedarfskündigung berücksichtigen" },
+      "3": { "title": "Recht auf Steuerbefreiung bei Übertragung von Immobilien an eine GbR" },
+      "readMore": "Mehr lesen"
+    },
+    "cta": "Alle ansehen"
+  },
+  "callToAction": {
+    "title": "Bereit, Ihren Ausschreibungsprozess zu transformieren?",
+    "subtitle": "Schließen Sie sich Tausenden von Unternehmen an, die Inlocon bereits nutzen, um mehr Ausschreibungen zu finden und zu gewinnen",
+    "cta": "Kostenlos testen",
+    "demo": "Demo vereinbaren"
+  },
+  "whatWeOffer": {
+    "title": "Was bieten wir Ihnen?",
+    "subtitle": "Umfassende Lösungen zur Optimierung Ihrer Ausschreibungssuche und Maximierung Ihrer Erfolgsquote",
+    "offers": {
+      "1": {
+        "title": "Tendersuche",
+        "description": "Ein personalisiertes Suchprofil liefert Ihnen maßgeschneiderte Informationen zu Ausschreibungen und vergebenen Aufträgen.",
+        "items": {
+          "1": "Individualisierte Suche nach geplanten Projekten und vergebenen Aufträgen",
+          "2": "Öffentliche Ausschreibungen VOB/VOL/VVF",
+          "3": "Private Ausschreibungen",
+          "4": "Einfache Kontaktaufnahme zu Herstellern, Händlern und Subunternehmern"
+        }
+      },
+      "2": {
+        "title": "Hoher Detaillierungsgrad",
+        "description": "Wir recherchieren Ausschreibungen mit beispielloser Präzision durch einen einzigartigen 3-Wege-Filter.",
+        "items": {
+          "1": "Aus ca. 8.000 Gewerkeprofilen",
+          "2": "Eigene Keywords im Bekanntmachungstext und Leistungsverzeichnis",
+          "3": "100% Trefferquote für Ihren Erfolg",
+          "4": "Themengerechte Aufbereitung & Benachrichtigung bei neuen Projekten"
+        }
+      },
+      "3": {
+        "title": "Enorme Zeitersparnis",
+        "description": "Sie sparen wertvolle Arbeitszeit und haben mehr Zeit für andere wichtige Dinge, z.B. durch:",
+        "items": {
+          "1": "Direkter Zugriff auf Vergabeunterlagen",
+          "2": "Im Fokus potenzieller Auftraggeber",
+          "3": "Präsentation beliebig vieler Referenzen",
+          "4": "Benachrichtigung bei neuen Projekten"
+        }
+      }
+    },
+    "stats": {
+      "1": { "label": "Einzigartig", "value": "3-Wege-Filter" },
+      "2": { "label": "Erfolgsquote", "value": "100% Trefferquote" },
+      "3": { "label": "Gewerkeprofile", "value": "~8.000" }
+    },
+    "cta": "Kostenlose Beratung"
+  },
+  "trustedBy": {
+    "title": "Von Tausenden geschätzt, durch Zahlen bewiesen",
+    "subtitle": "Unsere umfangreiche Datenbank und jahrelange Erfahrung sprechen für sich",
+    "stats": {
+      "1": { "value": "2.620.000+", "label": "Ausschreibungen" },
+      "2": { "value": "684.000+", "label": "Leistungsverzeichnisse" },
+      "3": { "value": "354.000+", "label": "Vergebene Aufträge" },
+      "4": { "value": "82.000+", "label": "Auftragnehmer" },
+      "5": { "value": "8.000+", "label": "Gewerke" },
+      "6": { "value": "24", "label": "Jahre Erfahrung" }
+    },
+    "cta": {
+      "title": "Treten Sie der führenden Ausschreibungsplattform bei",
+      "subtitle": "Mit über zwei Jahrzehnten Erfahrung und Millionen bearbeiteter Ausschreibungen sind wir Ihr zuverlässiger Partner für Geschäftswachstum.",
+      "startTrial": "Kostenlos testen",
+      "demo": "Demo ansehen",
+      "alt": "Abstraktes Hintergrundbild eines modernen Büros"
+    }
+  },
+  "how": {
+    "heading": "Wie Inlocon funktioniert",
+    "subheading": "Unser optimierter Prozess hilft Ihnen, die richtigen Ausschreibungen effizient zu finden und zu gewinnen",
+    "title1": "Suchen & Entdecken",
+    "desc1": "Nutzen Sie unsere erweiterte Suche, um relevante Ausschreibungen in mehreren Datenbanken und Quellen zu finden.",
+    "title2": "Filtern & Abstimmen",
+    "desc2": "Wenden Sie intelligente Filter an, um Ihre Geschäftsmöglichkeiten und Interessen abzugleichen.",
+    "title3": "Benachrichtigt werden",
+    "desc3": "Erhalten Sie Echtzeit-Benachrichtigungen über neue Möglichkeiten, die Ihren Kriterien entsprechen.",
+    "title4": "Verbinden & Gewinnen",
+    "desc4": "Vernetzen Sie sich mit Partnern, reichen Sie Angebote ein und gewinnen Sie mehr Aufträge.",
+    "cta": "Kostenlos testen"
+  }
+} 

@@ -1,36 +1,137 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Inlocon Landing Page
 
-## Getting Started
+A modern, responsive landing page built with **Next.js (App Router)**, featuring professional UI/UX, i18n, and robust component structure.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Features
+
+- **Next.js App Router** (TypeScript)
+- Responsive, accessible, and clean UI
+- Modular sections and common components
+- Light/dark theme support
+- Internationalization (i18n) with English and German
+- Unit tests for components and hooks (Jest + React Testing Library)
+
+---
+
+## 🛠️ Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/M-Walii/Inlocon-Landing-Page.git
+   cd inlocon-landing-page
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. **Open your browser:**
+   - Visit [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 🏗️ Project Structure
+
+```
+src/
+  app/                # Next.js app directory (layout, pages, global styles)
+  components/
+    common/           # Reusable UI components (Button, Section, ScrollToTopButton)
+    layout/           # Layout components (Header, Footer, Providers, MobileDrawer)
+    sections/         # Main landing page sections (Hero, Blog, OurPortal, etc.)
+  hooks/              # Custom React hooks (useTheme, useLanguage)
+  locales/            # i18n translation files (en.json, de.json)
+  utils/              # Utility functions (e.g., cn.ts)
+public/
+  assets/images/png/  # Logos, icons, and images (icon.png is the favicon)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧩 Main Sections
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Hero:** Landing headline, description, and call-to-action.
+- **HowItWorks:** Step-by-step explanation of the platform.
+- **WhyChooseInlocon:** Key benefits and differentiators.
+- **ExtraFeatures:** Additional features for users.
+- **WhatWeOffer:** Overview of offerings and pricing.
+- **Groups:** Target user groups.
+- **OurPortal:** Portal stats and consultation CTA.
+- **Blog:** Latest articles and insights.
+- **Testimonials:** Client feedback and reviews.
+- **TrustedBy:** Logos of trusted partners/clients.
+- **CallToAction:** Prominent CTA for trial/demo.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧱 Common Components
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Button:** Reusable button with variants and sizes.
+- **Section:** Wrapper for consistent section layout.
+- **ScrollToTopButton:** Floating button to scroll to top.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🧩 Layout Components
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Header:** Navigation, language switcher, theme toggle.
+- **Footer:** Company info, links, social, legal.
+- **Providers:** Context providers for theme, language, etc.
+- **MobileDrawer:** Responsive mobile navigation.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🪝 Custom Hooks
+
+- **useTheme:** Light/dark mode state and toggler (persists in localStorage).
+- **useLanguage:** Language state, translation function, and i18n support (persists in localStorage).
+
+---
+
+## 🌐 Internationalization (i18n)
+
+- **Languages:** English (`en.json`), German (`de.json`)
+- **Usage:** All UI text is translated using the `useLanguage` hook and nested translation keys.
+
+---
+
+## 🧪 Testing
+
+- **Framework:** Jest + React Testing Library
+- **Tested:** All major components and hooks
+- **Run all tests:**
+  ```bash
+  npm test
+  ```
+- **Run a specific test file:**
+  ```bash
+  npx jest src/components/common/Button.test.tsx
+  ```
+- **Test files:** Colocated with components/hooks (e.g., `Button.test.tsx`, `useTheme.test.tsx`)
+
+---
+
+## 🖼️ Favicon & Branding
+
+- **Favicon:** Set via `<link rel="icon" href="/assets/images/png/icon.png" />` in `src/app/layout.tsx`
+- **To change:** Replace `public/assets/images/png/icon.png` with your own (preferably PNG with transparency).
+
+---
+
+## 📦 Deployment
+
+- Standard Next.js deployment (Netlify)
+
+**Feel free to customize this README for your team or open source!**

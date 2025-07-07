@@ -1,0 +1,338 @@
+{
+  "hero": {
+    "title": "Public Tenders & Contracts",
+    "headline1": "Find the Right Tenders",
+    "headline2": "Faster Than Ever",
+    "description": "We source the latest tenders of your interest daily, categorized by discipline, region, and property category from hundreds of different sources.",
+    "searchPlaceholder": "Search for tenders, keywords or categories",
+    "searchButton": "Search",
+    "cta": "Start Free Trial",
+    "demo": "Watch Demo",
+    "trusted": "Trusted by 10,000+ businesses worldwide",
+    "learnMore": "Learn more",
+    "backgroundAlt": "Modern architectural building",
+    "logos": {
+      "db": "Deutsche Bahn Logo",
+      "knauf": "Knauf Logo",
+      "schindler": "Schindler Logo",
+      "siemens": "Siemens Logo",
+      "strabag": "Strabag Logo"
+    }
+  },
+  "header": {
+    "logoAlt": "Inlocon AG Logo",
+    "languageSwitcher": {
+      "ariaLabel": "Switch language"
+    },
+    "menu": {
+      "home": "Home",
+  "howItWorks": "How it works",
+      "benefits": "Benefits",
+      "dataSources": "Data Sources",
+      "features": "Features"
+    },
+    "cta": "Try for free"
+  },
+  "footer": {
+    "company": "Inlocon AG",
+    "address": "Erich-Zeigner-Allee 36\n04229 Leipzig\nTel.: 0341/ 253 479 111",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "xing": "Xing"
+    },
+    "jobs": {
+      "title": "Job Offers & Careers",
+      "support": "Support Manager (m/f/d)",
+      "sales": "Sales Representative (m/f/d)"
+    },
+    "legal": {
+      "title": "Legal",
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    },
+    "copyright": "Inlocon. All rights reserved.",
+    "brand": "INLOCON",
+    "cta": "Join thousands of businesses already using Inlocon to find and win more tenders",
+    "quickLinks": {
+      "title": "Quick Links",
+      "links": {
+        "howItWorks": "How It Works",
+  "benefits": "Benefits",
+  "dataSources": "Data Sources",
+  "features": "Features",
+        "pricing": "Pricing"
+      }
+    },
+    "support": {
+      "title": "Support",
+      "links": {
+        "helpCenter": "Help Center",
+        "documentation": "Documentation",
+        "apiReference": "API Reference",
+        "contactSupport": "Contact Support",
+        "statusPage": "Status Page"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "contact@inlocon.com",
+      "phone": "0341/ 253 479 111",
+      "address": "Inlocon AG Erich-Zeigner-Allee 36 04229 Leipzig"
+    },
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "extraFeatures": {
+    "title": "Extra Features That Make a Difference",
+    "subtitle": "Beyond tender search, we provide comprehensive tools for networking, insights, and business growth",
+    "features": {
+      "1": {
+        "name": "Partner Networking",
+        "description": "Connect with complementary businesses for joint ventures and partnerships",
+        "link": "Build strategic alliances"
+      },
+      "2": {
+        "name": "Market Insights",
+        "description": "Advanced analytics and market intelligence to make informed decisions",
+        "link": "Data-driven strategies"
+      },
+      "3": {
+        "name": "Collaboration Tools",
+        "description": "Team collaboration features for proposal development and bid management",
+        "link": "Streamlined teamwork"
+      },
+      "4": {
+        "name": "Deadline Management",
+        "description": "Automated deadline tracking and reminder system for all your tenders",
+        "link": "Never miss a deadline"
+      },
+      "5": {
+        "name": "Success Tracking",
+        "description": "Monitor your bid success rates and identify improvement opportunities",
+        "link": "Optimize performance"
+      },
+      "6": {
+        "name": "Custom Workflows",
+        "description": "Customize your tender management process to match your business needs",
+        "link": "Tailored solutions"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Testimonials",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "testimonials": {
+      "1": {
+        "name": "Esther Howard",
+        "designation": "Designation",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "2": {
+        "name": "John Doe",
+        "designation": "Designation",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "3": {
+        "name": "Jane Smith",
+        "designation": "Designation",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      }
+    }
+  },
+  "whychooseInlocon": {
+    "title": "Why Choose Inlocon?",
+    "subtitle": "Transform your tender search process with our comprehensive platform designed for business success",
+    "features": {
+      "1": {
+        "title": "Save Time",
+        "description": "Reduce tender search time by 80% with our intelligent automation and filtering."
+      },
+      "2": {
+        "title": "Higher Success Rate",
+        "description": "Improve your win rate with better matching and detailed tender insights."
+      },
+      "3": {
+        "title": "Business Growth",
+        "description": "Access more opportunities and scale your business with data-driven decisions."
+      },
+      "4": {
+        "title": "Secure & Reliable",
+        "description": "Enterprise-grade security with 99.9% uptime and data protection compliance."
+      },
+      "5": {
+        "title": "Network Building",
+        "description": "Connect with potential partners and build strategic business relationships."
+      },
+      "6": {
+        "title": "Real-time Updates",
+        "description": "Stay ahead with instant notifications and real-time tender updates."
+      }
+    }
+  },
+  "ourPortal": {
+    "title": "Our Portals",
+    "subtitle": "Through our 24 years of experience, we have established ten specialized portals where you can find exactly what's relevant to you, whether you're looking for public tenders and associated specifications, finding contracts, subcontractors, or otherwise establishing business contacts. Our portals at a glance:",
+    "portals": {
+      "1": {
+        "title": "Government Portals",
+        "description": "Access to 50+ government tender databases worldwide",
+        "count": "2.5M+"
+      },
+      "2": {
+        "title": "Corporate Tenders",
+        "description": "Private sector opportunities from major corporations",
+        "count": "1.8M+"
+      },
+      "3": {
+        "title": "Industry Databases",
+        "description": "Specialized databases for construction, IT, healthcare, and more",
+        "count": "3.2M+"
+      }
+    },
+    "stats": {
+      "1": { "value": "9.2M+", "label": "Total Tenders" },
+      "2": { "value": "150+", "label": "Countries" },
+      "3": { "value": "24/7", "label": "Data Updates" }
+    },
+    "cta": "Free Consultation"
+  },
+  "groups": {
+    "title": "Which Group Do You Belong To?",
+    "subtitle": "The Inlocon database and its analysis options are ideal for anyone seeking public tenders. However, we can offer customized, unique, and advanced solutions for the following groups, from which they will particularly benefit!",
+    "group": {
+      "1": "Architects & Planners",
+      "2": "Service providers & contractors",
+      "3": "Manufacturers & Retailers",
+      "4": "Developers & Clients"
+    },
+    "cta": "Start Free Trial",
+    "note": "No credit card required • Get personalized analysis"
+  },
+  "jobOpportunities": {
+    "title": "Current Job Opportunities Prepared Individually for You",
+    "subtitle": "Get personalized tender opportunities from hundreds of sources, filtered precisely for your business needs",
+    "features": {
+      "1": {
+        "title": "Public & Private Tenders",
+        "description": "From over 463 original sources in one central location"
+      },
+      "2": {
+        "title": "Precisely Filtered",
+        "description": "Tailored to your specific interests and requirements"
+      },
+      "3": {
+        "title": "Instant Downloads",
+        "description": "Get your relevant service specifications immediately"
+      },
+      "4": {
+        "title": "Awarded Contracts",
+        "description": "Daily research from all industries delivered to you"
+      },
+      "5": {
+        "title": "Business Network",
+        "description": "Find business contacts and subcontractors easily"
+      }
+    },
+    "video": {
+      "alt": "Watch how it works",
+      "cta": "Watch How It Works",
+      "subtitle": "See Inlocon in Action"
+    }
+  },
+  "blog": {
+    "title": "Our Blog",
+    "subtitle": "We provide a wide range of advertising solutions designed to boost your brand's visibility and impact.",
+    "posts": {
+      "1": { "title": "Noise emissions from heat pumps: Building permits must have reviewed technical specifications." },
+      "2": { "title": "Court of Appeal must consider objections in case of termination for personal use" },
+      "3": { "title": "Right to tax exemption when transferring property to a GbR" },
+      "readMore": "Read More"
+    },
+    "cta": "View all"
+  },
+  "callToAction": {
+    "title": "Ready to Transform Your Tender Process?",
+    "subtitle": "Join thousands of businesses already using Inlocon to find and win more tenders",
+    "cta": "Start Free Trial",
+    "demo": "Schedule a Demo"
+  },
+  "whatWeOffer": {
+    "title": "What Do We Offer You?",
+    "subtitle": "Comprehensive solutions designed to streamline your tender search and maximize your success rate",
+    "offers": {
+      "1": {
+        "title": "Tender Research",
+        "description": "A personalized search profile provides you with tailored information about tenders and awarded contracts.",
+        "items": {
+          "1": "Individualized search for planned projects and awarded contracts",
+          "2": "Public tenders VOB/VOL/VVF",
+          "3": "Private tenders",
+          "4": "Easy contact with manufacturers, dealers and subcontractors"
+        }
+      },
+      "2": {
+        "title": "High Level of Detail",
+        "description": "We research tenders with unprecedented precision using a unique 3-way filter for you.",
+        "items": {
+          "1": "From approx. 8,000 trade profiles",
+          "2": "Own keywords in the announcement text and in the list of services",
+          "3": "100% hit rate for your success",
+          "4": "Topic-appropriate preparation & notification of new projects"
+        }
+      },
+      "3": {
+        "title": "Enormous Time Savings",
+        "description": "You save valuable working time and have more time for other things that are important to you, e.g. by:",
+        "items": {
+          "1": "Direct access to tender documents",
+          "2": "In the focus of potential clients",
+          "3": "Presentation of any number of references",
+          "4": "Notification of new projects"
+        }
+      }
+    },
+    "stats": {
+      "1": { "label": "Unique", "value": "3-Way Filter" },
+      "2": { "label": "Success Rate", "value": "100% Hit Rate" },
+      "3": { "label": "Trade Profiles", "value": "~8,000" }
+    },
+    "cta": "Free Consultation"
+  },
+  "trustedBy": {
+    "title": "Trusted by Thousands, Proven by Numbers",
+    "subtitle": "Our extensive database and years of experience speak for themselves",
+    "stats": {
+      "1": { "value": "2,620,000+", "label": "Tenders" },
+      "2": { "value": "684,000+", "label": "Specifications" },
+      "3": { "value": "354,000+", "label": "Contract Awards" },
+      "4": { "value": "82,000+", "label": "Contractors" },
+      "5": { "value": "8,000+", "label": "Trades" },
+      "6": { "value": "24", "label": "Years of Experience" }
+    },
+    "cta": {
+      "title": "Join the Leading Tender Platform",
+      "subtitle": "With over two decades of experience and millions of tenders processed, we're your trusted partner in business growth.",
+      "startTrial": "Start Free Trial",
+      "demo": "Watch Demo",
+      "alt": "Abstract background image of a modern office"
+    }
+  },
+  "how": {
+    "heading": "How Inlocon Works",
+    "subheading": "Our streamlined process helps you find and win the right tenders efficiently",
+    "title1": "Search & Discover",
+    "desc1": "Use our advanced search to find relevant tenders across multiple databases and sources.",
+    "title2": "Filter & Match",
+    "desc2": "Apply intelligent filters to match your business capabilities and interests.",
+    "title3": "Get Notified",
+    "desc3": "Receive real-time alerts for new opportunities that match your criteria.",
+    "title4": "Connect & Win",
+    "desc4": "Connect with partners, submit proposals, and win more business.",
+    "cta": "Start Free Trial"
+  }
+}
