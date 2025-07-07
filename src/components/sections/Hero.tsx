@@ -6,6 +6,7 @@ import clsx from "clsx";
 import { Button } from "../common/Button";
 import Section from "../common/Section";
 import { ArrowRight, Search } from "lucide-react";
+import React, { useState, useEffect } from "react";
 
 export default function HeroSection() {
   const { t, language } = useLanguage();
@@ -14,6 +15,25 @@ export default function HeroSection() {
   // Utility class for button hover effect
   const buttonHover =
     "transition-colors duration-200 hover:bg-[#005080] dark:hover:bg-[#00395c] hover:text-white";
+
+  // Responsive objectPosition logic
+  const [windowWidth, setWindowWidth] = useState<number | null>(null);
+
+  useEffect(() => {
+    setWindowWidth(window.innerWidth);
+    const handleResize = () => setWindowWidth(window.innerWidth);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
+  let objectPosition = "40% center";
+  if (windowWidth !== null) {
+    if (windowWidth >= 1536) {
+      objectPosition = "80% 25%";
+    } else if (windowWidth >= 1024) {
+      objectPosition = "80% 30%";
+    }
+  }
 
   return (
     <Section
@@ -30,7 +50,10 @@ export default function HeroSection() {
           src="/assets/images/jpeg/hero.jpeg"
           alt={t("hero.backgroundAlt")}
           fill
-          style={{ objectFit: "cover" }}
+          style={{
+            objectFit: "cover",
+            objectPosition,
+          }}
           className="opacity-60 dark:opacity-80"
           priority
         />

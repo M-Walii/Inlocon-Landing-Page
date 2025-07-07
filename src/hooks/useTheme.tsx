@@ -28,11 +28,7 @@ export const ThemeProvider = ({ children }: { children: ReactNode }): React.JSX.
   // On mount, read theme from localStorage or system preference
   useEffect(() => {
     const stored = localStorage.getItem('theme') as Theme | null;
-    const system =
-      window.matchMedia('(prefers-color-scheme: dark)').matches
-        ? 'dark'
-        : 'light';
-    const initial = stored || system;
+    const initial = stored || 'light';
     setTheme(initial);
     document.documentElement.classList.toggle('dark', initial === 'dark');
   }, []);

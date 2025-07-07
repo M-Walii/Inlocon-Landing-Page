@@ -16,9 +16,9 @@ import { useLanguage } from "@/hooks/useLanguage";
 // Navigation links for mobile menu
 const navLinks = [
   { key: "header.menu.howItWorks", href: "#how-it-works" },
-  { key: "header.menu.benefits", href: "#benefits" },
-  { key: "header.menu.dataSources", href: "#data-sources" },
-  { key: "header.menu.features", href: "#features" },
+  { key: "header.menu.benefits", href: "#why-choose-inlocon" },
+  { key: "header.menu.features", href: "#extra-features" },
+  { key: "header.menu.dataSources", href: "#groups" },
 ];
 
 interface MobileDrawerProps {
@@ -61,14 +61,19 @@ export function MobileDrawer({ isOpen, onClose }: MobileDrawerProps) {
         {/* Navigation links */}
         <div className="flex flex-col gap-4">
           {navLinks.map((item) => (
-            <Link
+            <button
               key={item.key}
-              href={item.href}
-              onClick={onClose}
-              className="text-base font-medium text-gray-800 dark:text-gray-200"
+              onClick={() => {
+                const el = document.querySelector(item.href);
+                if (el) {
+                  el.scrollIntoView({ behavior: "smooth" });
+                }
+                onClose();
+              }}
+              className="text-left text-base font-medium text-gray-800 dark:text-gray-200 w-full"
             >
               {t(item.key)}
-            </Link>
+            </button>
           ))}
         </div>
 

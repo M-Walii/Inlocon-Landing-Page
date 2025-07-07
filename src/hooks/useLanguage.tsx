@@ -51,6 +51,8 @@ export const LanguageProvider = ({ children }: { children: ReactNode }): ReactEl
     const stored = localStorage.getItem('lang') as Lang | null;
     if (stored && (stored === 'en' || stored === 'de')) {
       setLanguage(stored);
+    } else {
+      setLanguage('de');
     }
   }, []);
 
