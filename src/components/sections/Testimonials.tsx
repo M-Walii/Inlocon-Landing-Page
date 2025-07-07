@@ -102,7 +102,7 @@ export default function Testimonials() {
     <Section
       className={clsx(
         "relative w-full py-16 lg:py-20",
-        isDark ? "bg-[#121212]" : "bg-[#0060A9]"
+        isDark ? "bg-[#272f3c]" : "bg-[#0060A9]"
       )}
     >
       <div className="mx-auto max-w-[1540px] px-6 md:px-12 xl:px-40">
@@ -155,7 +155,7 @@ export default function Testimonials() {
                       "w-full max-w-[340px] mx-auto min-h-[420px] sm:w-full sm:max-w-[380px]",
                       "rounded-xl p-8 flex flex-col gap-6 shadow-lg",
                       isDark
-                        ? "bg-[#1F2937] text-white"
+                        ? "bg-[#111828] text-white"
                         : "bg-white text-[#374151]"
                     )}
                   >
@@ -198,7 +198,7 @@ export default function Testimonials() {
                           fill="currentColor"
                           className={clsx(
                             "w-5 h-5",
-                            isDark ? "text-yellow-400" : "text-black"
+                            isDark ? "text-white" : "text-black"
                           )}
                         />
                       ))}
@@ -208,7 +208,7 @@ export default function Testimonials() {
               </div>
               {/* Mobile carousel */}
               <div className="flex flex-col items-center sm:hidden">
-                <div className="w-full max-w-[340px] mx-auto min-h-[420px] rounded-xl p-8 flex flex-col gap-6 shadow-lg bg-white dark:bg-[#1F2937] text-[#374151] dark:text-white">
+                <div className="w-full max-w-[340px] mx-auto min-h-[420px] rounded-xl p-8 flex flex-col gap-6 shadow-lg bg-white dark:bg-[#111828] text-[#374151] dark:text-white">
                   <div className="flex items-center gap-4">
                     <div className="w-[60px] h-[60px] rounded-full overflow-hidden">
                       <Image
@@ -244,7 +244,7 @@ export default function Testimonials() {
                         fill="currentColor"
                         className={clsx(
                           "w-5 h-5",
-                          isDark ? "text-yellow-400" : "text-black"
+                          isDark ? "text-white" : "text-black"
                         )}
                       />
                     ))}
