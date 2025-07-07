@@ -32,10 +32,6 @@ export default function TrustedBySection() {
     { icon: CalendarHeart, value: t('trustedBy.stats.6.value'), label: t('trustedBy.stats.6.label') },
   ];
 
-  // Button hover effect for all buttons
-  const buttonHover =
-    "transition-colors duration-200 hover:bg-[#005080] dark:hover:bg-[#00395c] hover:text-white";
-
   return (
     <Section id="trusted-by" className={clsx(
       "relative w-full flex flex-col items-center",

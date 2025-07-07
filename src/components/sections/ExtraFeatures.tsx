@@ -59,10 +59,6 @@ export default function ExtraFeaturesSection() {
     },
   ];
 
-  // Button hover effect for any future buttons
-  const buttonHover =
-    "transition-colors duration-200 hover:bg-[#005080] dark:hover:bg-[#00395c] hover:text-white";
-
   return (
     <Section
       id="extra-features"

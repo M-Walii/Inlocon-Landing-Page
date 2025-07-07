@@ -22,7 +22,6 @@ export default function JobOpportunitiesSection() {
   const { theme } = useTheme();
   const isDark = theme === "dark";
 
-  const [playing, setPlaying] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -57,13 +56,11 @@ export default function JobOpportunitiesSection() {
 
   function handlePlay() {
     setIsModalOpen(true);
-    setPlaying(true);
     setTimeout(() => videoRef.current?.play(), 0);
   }
 
   function handleCloseModal() {
     setIsModalOpen(false);
-    setPlaying(false);
     if (videoRef.current) {
       videoRef.current.pause();
       videoRef.current.currentTime = 0;

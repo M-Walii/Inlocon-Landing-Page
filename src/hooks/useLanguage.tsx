@@ -12,7 +12,7 @@ import en from '../locales/en.json';
 import de from '../locales/de.json';
 
 type Lang = 'en' | 'de';
-type Messages = Record<string, any>;
+type Messages = Record<string, unknown>;
 
 interface LanguageContextType {
   language: Lang;
@@ -24,8 +24,13 @@ interface LanguageContextType {
 const resources: Record<Lang, Messages> = { en, de };
 
 // Utility to apply nested keys (e.g. 'hero.title')
-function getNested(obj: any, path: string): any {
-  return path.split('.').reduce((acc, part) => (acc && acc[part] !== undefined ? acc[part] : undefined), obj);
+function getNested(obj: Record<string, unknown>, path: string): unknown {
+  return path.split('.').reduce<unknown>((acc, part) => {
+    if (acc && typeof acc === 'object' && acc !== null && part in acc) {
+      return (acc as Record<string, unknown>)[part];
+    }
+    return undefined;
+  }, obj);
 }
 
 // Language context

@@ -189,7 +189,7 @@ export default function Testimonials() {
                         isDark ? "text-gray-300" : "text-[#222222]"
                       )}
                     >
-                      "{it.text}"
+                      &quot;{it.text}&quot;
                     </p>
                     <div className="flex items-center gap-1">
                       {Array.from({ length: it.rating }).map((_, z) => (
@@ -235,7 +235,7 @@ export default function Testimonials() {
                     "text-[16px] leading-[24px] flex-1",
                     isDark ? "text-gray-300" : "text-[#222222]"
                   )}>
-                    "{items[mobileIndex].text}"
+                    &quot;{items[mobileIndex].text}&quot;
                   </p>
                   <div className="flex items-center gap-1">
                     {Array.from({ length: items[mobileIndex].rating }).map((_, z) => (
